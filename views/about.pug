@@ -1,0 +1,31 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+        h1 Dominic Rehm
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+        .portfolio-bio
+          p
+            | I'm a Full Stack JavaScript Developer from germany. Programming is my greatest passion because there you can let your creativity run free. 
+            | I'm 24 years old and starded learning coding on 1. January 2020. In the first 4 months I completed the FEWD Techdegree and learned a lot. In this year 
+            | I want to learn more about JavaScript for the Backend and Frontend. 
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+        ul
+          li HTML
+          li CSS
+          li JavaScript
+          li Express
+        h6 Contact Info
+        ul
+          li rehm.treehouse@outlook.de
+        a.button.expanded(href='https://www.linkedin.com/in/dominic-rehm-1988a919b/', target='blank') LinkedIn
+        a.button.expanded(href='https://github.com/DominicRehm', target='blank') GitHub
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  

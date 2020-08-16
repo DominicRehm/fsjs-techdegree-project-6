@@ -1,0 +1,77 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Wheel Of Success",
+            "description": "Try your luck and play the Wheel Of Success game. You have 5 failures to find the right word displayed on the screen. Can you find out it without one failure?",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dominicrehm.github.io/gameapp/",
+            "github_link": "https://github.com/DominicRehm/techdegree-project-6",
+            "image_urls": [
+                "static/img/wheel_of_success_small.PNG",
+                "static/img/wheel_of_success_large_1.PNG",
+                "static/img/wheel_of_success_large_2.PNG",
+                "static/img/wheel_of_success_large_3.PNG"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Backend Dashboard",
+            "description": "In this project I created a backend interface for webpages. That was a very good training to improve my JavaScript skills in different ways. In this project i also learned to use the HTML/CSS grid-system. With the grid-system you can create realy awesome pages with only a few rows of code!",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dominicrehm.github.io/dashboard/",
+            "github_link": "https://github.com/DominicRehm/techdegree-project-7",
+            "image_urls": [
+                "static/img/dashboard_small.PNG",
+                "static/img/dashboard_large_1.PNG",
+                "static/img/dashboard_large_2.PNG",
+                "static/img/dashboard_large_3.PNG"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Photo Gallery",
+            "description": "Take a look at the interactive Photo Gallery and enjoy the images! In this project I used a search function to find a specific picture. You can click on one of these pictures to see that picture in a larger preview. Creating this project was very helpfull to improve the already existing knowledge. The pictures in this project are from an random API side.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "JQuery"
+            ],
+            "live_link": "https://dominicrehm.github.io/photogallery/",
+            "github_link": "https://github.com/DominicRehm/techdegree-project-5",
+            "image_urls": [
+                "static/img/photo_gallery_small.PNG",
+                "static/img/photo_gallery_large_1.PNG",
+                "static/img/photo_gallery_large_2.PNG",
+                "static/img/photo_gallery_large_3.PNG"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "API Connection",
+            "description": "Use JavaScript to connect to another side and use this data with an API on your own page. On this page you can find the right employee for your business. You can use the search function to find a specific employee. If you find the right one you can click on the card to see more information about this employee. For this API I used a random user generator.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://dominicrehm.github.io/api/",
+            "github_link": "https://github.com/DominicRehm/techdegree-project-8",
+            "image_urls": [
+                "static/img/api_small.PNG",
+                "static/img/api_large_1.PNG",
+                "static/img/api_large_2.PNG",
+                "static/img/api_large_3.PNG"
+            ]
+        }
+    ]
+}

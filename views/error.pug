@@ -1,0 +1,17 @@
+extends layout.pug
+
+block content
+    .err_container
+        h2(class="err_heading") Oh no! It looks like you got lost!
+        h3(class="err_heading") Don't worry! I'll help you to find back ...
+        a(href="/", id="err_btn") Go this way and everything will be fine!
+
+    .err_information
+        h4(id="info_heading") For more informations click here
+        .info_container
+            h5 Error Status
+            p= error.status
+            h5 Error Message
+            p= error.message
+            h5 Details
+            p= error.stack
